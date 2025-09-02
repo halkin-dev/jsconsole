@@ -20,3 +20,6 @@ yarn-debug.log*
 yarn-error.log*
 
 s3_website.yml
+
+firebase-debug.log
+.firebase
